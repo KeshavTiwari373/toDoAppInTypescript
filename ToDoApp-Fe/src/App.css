@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color:rgb(235, 114, 92);
+  min-height: 100vh;
+}
+.App-header {
+  margin: 1rem;
+  font-size: 5rem;
+  color: white;
+}
+.Container{
+  width: 60%;
+}
